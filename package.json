@@ -5,7 +5,7 @@
     "description": "https://github.com/csscomb/csscomb.js plugin for Brackets.",
     "author": "Marco Hanowski and Stefan Buck <its@time2dev.com>",
     "dependencies": {
-        "csscomb": "2.0.4"
+        "csscomb": "^3.1.8"
     },
     "devDependencies": {
     },
