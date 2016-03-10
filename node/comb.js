@@ -10,7 +10,7 @@
     }
 
     function processString( cssString, cb ) {
-        var comb = new CSScomp('zen');
+        var comb = new CSScomp('csscomb');
         var result = comb.processString(cssString);
         cb(null, result);
     }
